@@ -26,6 +26,6 @@ class DoNotTrackVariable
 
     public function isEnabled()
     {
-        return craft()->doNotTrack->isEnabled();
+        return DoNotTrack::$plugin->isEnabled();
     }
 }
