@@ -6,6 +6,8 @@ Helpers for respecting Do Not Track headers sent by browsers.
 
 This plugin requires Craft CMS 3.0.0-beta.23 or later.
 
+Get the [Craft 2 version](https://github.com/wildbit/craft-donottrack).
+
 ## Installation
 
 To install the plugin, follow these instructions.
